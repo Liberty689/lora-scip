@@ -1,0 +1,1 @@
+masterpiece, best quality, xuemei a girl --n low quality, worst quality, bad anatomy,bad composition, poor, low effort --w 768 --h 768 --d 1 --l 7.5 --s 28
